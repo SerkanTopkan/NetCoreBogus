@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fT97KGJdWsco0OpH1IH90zr7XeG2dHX/c242d5BQRuy9SPmQGS3Dpeng/CmHv4AHlay3EDkN26uJKhUCSW0Oxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stopkan\\Desktop\\Bogus\\NetCoreBogus\\NetCoreBogus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stopkan\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

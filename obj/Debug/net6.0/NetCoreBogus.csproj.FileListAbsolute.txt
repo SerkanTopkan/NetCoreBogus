@@ -1,0 +1,17 @@
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\obj\Debug\net6.0\NetCoreBogus.csproj.AssemblyReference.cache
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\obj\Debug\net6.0\NetCoreBogus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\obj\Debug\net6.0\NetCoreBogus.AssemblyInfoInputs.cache
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\obj\Debug\net6.0\NetCoreBogus.AssemblyInfo.cs
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\obj\Debug\net6.0\NetCoreBogus.csproj.CoreCompileInputs.cache
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\bin\Debug\net6.0\NetCoreBogus.exe
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\bin\Debug\net6.0\NetCoreBogus.deps.json
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\bin\Debug\net6.0\NetCoreBogus.runtimeconfig.json
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\bin\Debug\net6.0\NetCoreBogus.dll
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\bin\Debug\net6.0\ref\NetCoreBogus.dll
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\bin\Debug\net6.0\NetCoreBogus.pdb
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\bin\Debug\net6.0\Bogus.dll
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\obj\Debug\net6.0\NetCoreBogus.csproj.CopyComplete
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\obj\Debug\net6.0\NetCoreBogus.dll
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\obj\Debug\net6.0\ref\NetCoreBogus.dll
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\obj\Debug\net6.0\NetCoreBogus.pdb
+C:\Users\stopkan\Desktop\Bogus\NetCoreBogus\obj\Debug\net6.0\NetCoreBogus.genruntimeconfig.cache
